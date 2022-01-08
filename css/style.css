@@ -1,0 +1,72 @@
+/* common css start*/
+#section{
+    width: 100%;
+}
+#psedoue{
+    width: 50%;
+    margin: 0px 35%;
+}
+/* common css start*/
+
+/* css psedoue element  */
+.nest img {
+	height: 100px;
+	width: 100px;
+	position: relative;
+	top: 295px;
+	left: 136px;
+}
+  .one img{
+      height: 100px;
+      width: 100px;
+      border-radius: 50%;
+      position: relative;
+      left: 18%;
+      animation: safayet .7s infinite;
+  }
+  @keyframes safayet{
+    0%{
+        bottom: 180px;
+    }
+  }
+  .two img{
+      height: 100px;
+      width: 100px;
+      border-radius: 50%;
+      position: relative;
+      left: 25%;
+      animation: habiba .7s infinite;
+  }
+  @keyframes habiba{
+    0%{
+       left: 500px;
+    }
+  }
+  .three img{
+      height: 100px;
+      width: 100px;
+      border-radius: 50%;
+      position: relative;
+      left: 20%;
+      animation: maa .7s infinite;
+  }
+  @keyframes maa{
+     0%{
+         top: 80px;
+     }
+  }
+  .zero img{
+      height: 100px;
+      width: 100px;
+      border-radius: 50%;
+      position: relative;
+      left: 12%;
+      top: 200px;
+      animation: santi .7s infinite;
+  }
+  @keyframes santi{
+    0%{
+        left: -400px;
+    }
+  }
+/* css psedoue element  */
